@@ -435,6 +435,39 @@ h2 {
   font-weight: 400;
   line-height: 150%;
 }
+/* Feedback form button container */
+.feedback--form--container {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Optional: If you also want to center it vertically */
+  width: 100%; /* Ensure the container takes up the full width */
+}
+
+/* Feedback form button */
+.feedback--form--btn {
+  font-family: "Roboto";
+  display: inline-block;
+  padding: 14px 32px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.5s;
+  background-color: var(--primary); /* Assuming you want the primary color */
+  color: var(--white); /* Assuming you want white text */
+  border: 1px solid var(--primary);
+}
+
+/* Hover state for feedback form button */
+.feedback--form--btn:hover {
+  color: var(--primary);
+  background-color: var(--white);
+}
+
 /* Testimonial Ends */
 .contact--section {
   display: flex;

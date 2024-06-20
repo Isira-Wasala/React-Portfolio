@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Skilled at building responsive, dynamic interfaces. Dedicated to delivering seamless, interactive user experiences with a focus on modern web and app technologies"
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Proficient in creating robust, scalable backend systems, databases, and APIs. Passionate about developing efficient, reliable server-side solutions"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Committed to intuitive design principles. Expert in creating visually appealing, user-friendly interfaces. Focused on enhancing user engagement and satisfaction"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Software Development",
+      "description": "Experienced in developing web, mobile, and desktop applications. Skilled in API integration and passionate about innovative, high-quality software solutions"
     }
   ],
   "portfolio": [
