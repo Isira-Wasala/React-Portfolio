@@ -51,7 +51,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ## Usage of EmailJS
 
-Access to EmailJS: [EmailJS](https://www.emailjs.com/)
+Access to EmailJS: [EmailJS](https://www.emailjs.com)
+
+![EmailJS Interface](public/img/EmailJS.png)
 
 ### Analyzing the Bundle Size
 
